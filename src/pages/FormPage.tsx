@@ -6,11 +6,10 @@ import { buildZodSchema } from "@/lib/buildSchema";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { Separator } from "@/components/ui/separator";
-import { FieldGroup } from "@/components/ui/field";
 import DynamicField from "@/components/DynamicField";
 import LineItemsTable from "@/components/Lineitemstable";
 import PublishDialog from "@/components/Publishdialog";
-import { ArrowLeft, ChevronLeft, ChevronRight, Sparkles, LayoutGrid, FileText, Settings } from "lucide-react";
+import { ArrowLeft, ChevronLeft, ChevronRight, Sparkles } from "lucide-react";
 
 interface FormPageProps {
   data: RFQData;

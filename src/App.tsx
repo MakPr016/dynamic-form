@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { BrowserRouter, Routes, Route, Navigate, useNavigate, useParams } from "react-router-dom";
+import { BrowserRouter, Routes, Route, Navigate, useNavigate } from "react-router-dom";
 import type { RFQData } from "@/types/rfq";
 import UploadPage from "@/pages/UploadPage";
 import FormPage from "@/pages/FormPage";
