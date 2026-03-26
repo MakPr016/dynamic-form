@@ -1,7 +1,7 @@
 import type { RFQData } from "@/types/rfq";
 import mockData from "@/mock/response.json";
 
-const USE_MOCK = true;
+const USE_MOCK = false;
 
 export async function parseRFQ(_file: File): Promise<RFQData> {
   if (USE_MOCK) {
@@ -9,7 +9,7 @@ export async function parseRFQ(_file: File): Promise<RFQData> {
     return mockData as RFQData;
   }
 
-  const BASE_URL = "http://localhost:8000";
+  const BASE_URL = import.meta.env.VITE_API_BASE_URL || window.location.origin;
   const formData = new FormData();
   formData.append("file", _file);
 
