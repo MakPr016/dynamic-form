@@ -1,7 +1,7 @@
 import type { RFQData } from "@/types/rfq";
 import mockData from "@/mock/response.json";
 
-const USE_MOCK = false;
+const USE_MOCK = true;
 
 export async function parseRFQ(_file: File): Promise<RFQData> {
   if (USE_MOCK) {

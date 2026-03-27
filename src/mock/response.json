@@ -1,6 +1,6 @@
 {
-  "title": "Procurement of medicine and supplies for the medical teams in the eastern region under MP.0623",
-  "description": "Request for Quotation (RFQ) from the International Organisation for Migration (IOM) for the provision of goods detailed in Annex 1 of this RFQ. RFQ Reference: 4200705309.",
+  "title": "REQUEST FOR QUOTATION (RFQ)",
+  "description": "",
   "sections": [
     "Quotation Submission",
     "Vendor Information",
@@ -12,839 +12,558 @@
   "line_items": [
     {
       "sr": 1,
-      "description": "Amoxicillin clavulanic acid 156 Mg/5ml suspension",
-      "unit": "Pack of 20 Tablet",
-      "qty": 30,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 2,
-      "description": "Amoxicillin clavulanic acid 1g Tablet",
-      "unit": "Pack of 14 Tablet",
-      "qty": 200,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 3,
-      "description": "Amlodipine 5 Mg Tablet",
-      "unit": "Pack of 28 Tab",
-      "qty": 50,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 4,
-      "description": "Amlodipine 10mg Tablet",
-      "unit": "Pack of 28 Tab",
-      "qty": 50,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 5,
-      "description": "Antihemorroidal cream containing Lidocaine/Fluocinolone Acetonide",
-      "unit": "20 g Tube",
-      "qty": 30,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 6,
-      "description": "Atorvastatin 20mg Tablet",
-      "unit": "Pack of 30 Tab",
-      "qty": 30,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 7,
-      "description": "Bisoprolol Fumarate 5 Mg",
-      "unit": "Pack of 30 Tab",
-      "qty": 30,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 8,
-      "description": "Bisacodyl 5mg Tablet",
-      "unit": "Pack of 30 Tab",
-      "qty": 30,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 9,
-      "description": "Budesonide 0.5mg/2ml Nebulizer Suspension",
-      "unit": "Pack of 20 Nebules",
-      "qty": 2,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 10,
-      "description": "Calcium and minerals Tablet.",
-      "unit": "Pack of 30 Table",
-      "qty": 50,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 11,
-      "description": "Chloramphenicol 1% Eye Ointment",
-      "unit": "5g Tube",
-      "qty": 30,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 12,
-      "description": "Chlorpheniramine Syrup 2mg/5ml",
-      "unit": "Bottle 100 ml",
-      "qty": 30,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 13,
-      "description": "Ciprofloxacin 500 mg Tablet",
-      "unit": "Pack of 10 Tab",
-      "qty": 100,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 14,
-      "description": "Clotrimazole Skin Cream 1%",
-      "unit": "20 g Tube",
-      "qty": 30,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 15,
-      "description": "Dexamethasone 4mg/ml injection",
-      "unit": "Pack of 10 Amp",
-      "qty": 3,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 16,
-      "description": "Dextrose 5% / 0.45% Sodium Chloride",
-      "unit": "Bag of 500 ml",
-      "qty": 50,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 17,
-      "description": "Domperidone 10mg suppository",
-      "unit": "Pack of 5 Supp",
-      "qty": 10,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 18,
-      "description": "Ferrous Sulphate 200mg Tablet",
-      "unit": "Pack of 30 Tab",
-      "qty": 20,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 19,
-      "description": "Finger Pulse oximeter Portable Digital Reading LED Display.",
-      "unit": "EA",
-      "qty": 5,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 20,
-      "description": "Fusidic acid 2% and betamethasone valerate 0.01% ointment",
-      "unit": "15 g Tube",
-      "qty": 50,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 21,
-      "description": "Gentamicin 0.3% Eye Drops",
-      "unit": "5 ml bottle",
-      "qty": 30,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 22,
-      "description": "Glibenclamide 5mg Tablet",
-      "unit": "Pack of 60 Tab",
-      "qty": 30,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 23,
-      "description": "Glimepiride 4 mg tablet",
-      "unit": "Pack of 30 Tab",
-      "qty": 30,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 24,
-      "description": "Hexamine 500.00 mg . Piperazine citrate 190.00 mg . Khellin 1.83 mg Combination such as Uricol or equivalent",
-      "unit": "Pack of 12 sach",
-      "qty": 100,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 25,
-      "description": "Hydrocortisone 1% cream",
-      "unit": "15 gram Tube",
-      "qty": 100,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 26,
-      "description": "Hyoscine Butylbromide 10mg Tablet",
-      "unit": "Pack of 20 Tablet",
-      "qty": 30,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 27,
-      "description": "Hyoscine Butylbromide 20 mg/ml",
-      "unit": "Pack of 6 Amp",
-      "qty": 10,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 28,
-      "description": "Ibuprofen 100mg/5ml",
-      "unit": "Bottle 100 ml",
-      "qty": 40,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 29,
-      "description": "Ibuprofen 400mg Film Coated",
-      "unit": "Pack of 24 Tab",
-      "qty": 300,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 30,
-      "description": "Ipratropium bromide 500 mcg/2 ml",
-      "unit": "Pack of 20 Nebules",
-      "qty": 2,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 31,
-      "description": "Lactulose Syrup 66.7%",
-      "unit": "Bottle 200 ml",
-      "qty": 25,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 32,
-      "description": "Levothyroxine 100 mcg Tablet",
-      "unit": "Pack of 50 Tab",
-      "qty": 20,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 33,
-      "description": "Lisinopril 10mg Tablet",
-      "unit": "Pack of 28 Tab",
-      "qty": 40,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 34,
-      "description": "Loratadine 10mg Tablet",
-      "unit": "Pack of 10 Tab",
-      "qty": 100,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 35,
-      "description": "Loperamide 2mg Capsule",
-      "unit": "Pack of 10 Capsule",
-      "qty": 20,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 36,
-      "description": "Metronidazole 125 Mg/5ml Suspension",
-      "unit": "Bottle 100 ml",
-      "qty": 25,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 37,
-      "description": "Metformin 500 mg Tablet",
-      "unit": "Pack of 30 Tab",
-      "qty": 50,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 38,
-      "description": "Metformin 850 mg Tablet",
-      "unit": "Pack of 56 Tab",
-      "qty": 50,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 39,
-      "description": "Multivitamins Tablet",
-      "unit": "Pack of 50 Tab",
-      "qty": 75,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 40,
-      "description": "Naphazoline hydrochloride+ Chlorpheniramine maleate eye/Nasal drops",
-      "unit": "15 ml Dropper Bottle",
-      "qty": 50,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 41,
-      "description": "Omeprazole 40 mg Capsule",
-      "unit": "Pack of 28 Cap",
-      "qty": 100,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 42,
-      "description": "Omeprazole 40 mg Vial",
-      "unit": "Pack of 1 vial",
-      "qty": 40,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 43,
-      "description": "Paracetamol 250mg/5 ml Suspension",
-      "unit": "Bottle 100 ml",
-      "qty": 100,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 44,
-      "description": "Paracetamol 500 mg Tablet",
-      "unit": "Pack of 100",
-      "qty": 100,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 45,
-      "description": "Paracetamol 1000mg /100ml Infusion",
-      "unit": "100 ml Pack",
-      "qty": 40,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 46,
-      "description": "Paracetamol, chlorpheniramine, and phenylephrine Tablet combination",
-      "unit": "Pack of 20 Tab",
-      "qty": 200,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 47,
-      "description": "Pediatric cough Syrup contains Diphenhydramine and Sodium Citrate",
-      "unit": "Bottle 120 ml",
-      "qty": 60,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 48,
-      "description": "Prednisolone 5 Mg Tablet",
-      "unit": "Pack of 20 Tablet",
-      "qty": 30,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 49,
-      "description": "Portable cool Box 35 Liter with 4 Ice Pack 500 ml",
-      "unit": "EA",
-      "qty": 1,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 50,
-      "description": "Salbutamol 0.1 Mg/Dose Inhaler",
-      "unit": "200 Doses Inhaler",
-      "qty": 30,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 51,
-      "description": "Silver sulfadiazine 1%",
-      "unit": "Tube of 50 grams",
-      "qty": 40,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 52,
-      "description": "Sterile Water For Injection 10ml ampoule",
-      "unit": "Pack of 50 Ampoule",
-      "qty": 12,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 53,
-      "description": "Thiocolchicoside 4mg/2ml",
-      "unit": "Pack of 6 Amp",
-      "qty": 12,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 54,
-      "description": "Xylometazoline 0.05% Nasal Drops",
-      "unit": "Singel Pack",
-      "qty": 40,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 55,
-      "description": "Xylometazoline 0..1 % Nasal Drops",
-      "unit": "Singel Pack",
-      "qty": 40,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 56,
-      "description": "Vitamin B Complex IM Injection",
-      "unit": "Pack of 5 Amp",
-      "qty": 20,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 57,
-      "description": "Vitamin D 50000 IU Capsule",
-      "unit": "Pack of 20 Tab",
-      "qty": 50,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 58,
-      "description": "Aneroid Sphygmomanometer. Manual blood pressure measurement device with removable adult sized cuff and children sized blood pressure measurement cuff",
-      "unit": "Single unit",
-      "qty": 2,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 59,
-      "description": "adhesive non woven wound dressing 10m x 15cm roll",
-      "unit": "Single unit",
-      "qty": 25,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 60,
-      "description": "Infusion giving set, sterile",
-      "unit": "EA",
-      "qty": 125,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 61,
-      "description": "Cannula IV short 22G, sterile",
-      "unit": "EA",
-      "qty": 200,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 62,
-      "description": "Cannula IV short 20G, sterile",
-      "unit": "EA",
-      "qty": 200,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 63,
-      "description": "Medical Nitrile examination Gloves, Powder free, disposable",
-      "unit": "Box of 100",
-      "qty": 60,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 64,
-      "description": "Non Sterile Gauze Pads 7.5cm X 7.5cm",
-      "unit": "Pack of 100",
-      "qty": 100,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 65,
-      "description": "Povidone Iodine 10% solution",
-      "unit": "Bottle of 1000 ml",
-      "qty": 10,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 66,
-      "description": "Urine Pregnancy Rapid Test Kit",
-      "unit": "EA",
-      "qty": 40,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 67,
-      "description": "Sterile Gauze 12 ply 10cm x10 cm",
-      "unit": "Pack of 100",
-      "qty": 100,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 68,
-      "description": "Sterile Surgical Blades no 22",
-      "unit": "Pack of 100",
-      "qty": 10,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 69,
-      "description": "Sterile surgical gloves size 7.5",
-      "unit": "50 Pair",
-      "qty": 2,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 70,
-      "description": "Syringe, 5ml, sterile, with detached (bi-packed / mounted) needle, 21Gx1 1/2\" (0.80 x 40mm), disposable",
-      "unit": "Single unit",
-      "qty": 500,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 71,
-      "description": "Syringe, 10ml, sterile, with detached (bi-packed / mounted) needle, 21Gx1 1/2\" (0.80 x 40mm), disposable",
-      "unit": "Single unit",
-      "qty": 500,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 72,
-      "description": "Adult nebulizer mask with full kit",
-      "unit": "Single unit",
-      "qty": 50,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 73,
-      "description": "Pediatric Nebulizer Mask with full Kit",
-      "unit": "Single unit",
-      "qty": 50,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 74,
-      "description": "Prolene 2/0 Suture round body",
-      "unit": "Pack of 12",
-      "qty": 3,
-      "unit_price": null,
-      "total_price": null,
-      "brand": "",
-      "expiry_date": "",
-      "remarks": ""
-    },
-    {
-      "sr": 75,
-      "description": "Transpiration to Benghazi",
+      "description": "Date",
+      "dosage": "",
+      "form": "",
+      "pack_size": 0,
+      "pack_unit": "Date",
       "unit": "",
       "qty": 0,
       "unit_price": null,
       "total_price": null,
       "brand": "",
       "expiry_date": "",
-      "remarks": ""
+      "remarks": "",
+      "category": "Medical Supplies & Consumables"
+    },
+    {
+      "sr": 1,
+      "description": "Alcohol Ethyl, 75%",
+      "dosage": "",
+      "form": "Solution",
+      "pack_size": 0,
+      "pack_unit": "",
+      "unit": "",
+      "qty": 0,
+      "unit_price": null,
+      "total_price": null,
+      "brand": "",
+      "expiry_date": "",
+      "remarks": "",
+      "category": "Medical Supplies & Consumables"
+    },
+    {
+      "sr": 2,
+      "description": "Alcohol medical swabs",
+      "dosage": "",
+      "form": "",
+      "pack_size": 0,
+      "pack_unit": "",
+      "unit": "",
+      "qty": 0,
+      "unit_price": null,
+      "total_price": null,
+      "brand": "",
+      "expiry_date": "",
+      "remarks": "",
+      "category": "Medical Supplies & Consumables"
+    },
+    {
+      "sr": 3,
+      "description": "Adhesive non-Woven Wound Dressing 10 m x15 cm",
+      "dosage": "",
+      "form": "",
+      "pack_size": 0,
+      "pack_unit": "",
+      "unit": "",
+      "qty": 0,
+      "unit_price": null,
+      "total_price": null,
+      "brand": "",
+      "expiry_date": "",
+      "remarks": "",
+      "category": "Wound Care & Tissue Management"
+    },
+    {
+      "sr": 4,
+      "description": "Absorbent Cotton Wool",
+      "dosage": "",
+      "form": "",
+      "pack_size": 0,
+      "pack_unit": "",
+      "unit": "",
+      "qty": 0,
+      "unit_price": null,
+      "total_price": null,
+      "brand": "",
+      "expiry_date": "",
+      "remarks": "",
+      "category": "Medical Supplies & Consumables"
+    },
+    {
+      "sr": 5,
+      "description": "Disposable non -woven Bedsheets-30-35 gram",
+      "dosage": "",
+      "form": "",
+      "pack_size": 0,
+      "pack_unit": "",
+      "unit": "",
+      "qty": 0,
+      "unit_price": null,
+      "total_price": null,
+      "brand": "",
+      "expiry_date": "",
+      "remarks": "",
+      "category": "Medical Supplies & Consumables"
+    },
+    {
+      "sr": 6,
+      "description": "Adult Oxygen Mask with Tubing, Breathing Masks for Face Adult",
+      "dosage": "",
+      "form": "",
+      "pack_size": 0,
+      "pack_unit": "",
+      "unit": "",
+      "qty": 0,
+      "unit_price": null,
+      "total_price": null,
+      "brand": "",
+      "expiry_date": "",
+      "remarks": "",
+      "category": "Respiratory & Anesthesia"
+    },
+    {
+      "sr": 7,
+      "description": "Nebulizer Masks (Adult size).Nebulizer Tubing and Mouthpiece Set",
+      "dosage": "",
+      "form": "",
+      "pack_size": 0,
+      "pack_unit": "",
+      "unit": "",
+      "qty": 0,
+      "unit_price": null,
+      "total_price": null,
+      "brand": "",
+      "expiry_date": "",
+      "remarks": "",
+      "category": "Respiratory & Anesthesia"
+    },
+    {
+      "sr": 8,
+      "description": "Nebulizer Masks (Pediatric size).Nebulizer Tubing and Mouthpiece Set",
+      "dosage": "",
+      "form": "",
+      "pack_size": 0,
+      "pack_unit": "",
+      "unit": "",
+      "qty": 0,
+      "unit_price": null,
+      "total_price": null,
+      "brand": "",
+      "expiry_date": "",
+      "remarks": "",
+      "category": "Respiratory & Anesthesia"
+    },
+    {
+      "sr": 9,
+      "description": "Medical Nitrile examination Gloves, free, disposable",
+      "dosage": "",
+      "form": "Powder",
+      "pack_size": 0,
+      "pack_unit": "",
+      "unit": "",
+      "qty": 0,
+      "unit_price": null,
+      "total_price": null,
+      "brand": "",
+      "expiry_date": "",
+      "remarks": "",
+      "category": "Medical Supplies & Consumables"
+    },
+    {
+      "sr": 10,
+      "description": "Paraffin Dressing Gauze 15cm x 2m",
+      "dosage": "",
+      "form": "",
+      "pack_size": 0,
+      "pack_unit": "",
+      "unit": "",
+      "qty": 0,
+      "unit_price": null,
+      "total_price": null,
+      "brand": "",
+      "expiry_date": "",
+      "remarks": "",
+      "category": "Wound Care & Tissue Management"
+    },
+    {
+      "sr": 11,
+      "description": "Povidone Iodine 10%",
+      "dosage": "",
+      "form": "Solution",
+      "pack_size": 0,
+      "pack_unit": "",
+      "unit": "",
+      "qty": 0,
+      "unit_price": null,
+      "total_price": null,
+      "brand": "",
+      "expiry_date": "",
+      "remarks": "",
+      "category": "Sterilization & Disinfection"
+    },
+    {
+      "sr": 12,
+      "description": "Urine Pregnancy Rapid Test Kit",
+      "dosage": "",
+      "form": "",
+      "pack_size": 0,
+      "pack_unit": "",
+      "unit": "",
+      "qty": 0,
+      "unit_price": null,
+      "total_price": null,
+      "brand": "",
+      "expiry_date": "",
+      "remarks": "",
+      "category": "Diagnostic Products"
+    },
+    {
+      "sr": 14,
+      "description": "Syringe, , sterile, with detached (bipacked/mounted) needle,21Gx1 1/2\" (0.80x 40mm), disposable",
+      "dosage": "5ml",
+      "form": "",
+      "pack_size": 0,
+      "pack_unit": "",
+      "unit": "",
+      "qty": 0,
+      "unit_price": null,
+      "total_price": null,
+      "brand": "",
+      "expiry_date": "",
+      "remarks": "",
+      "category": "Medical Supplies & Consumables"
+    },
+    {
+      "sr": 15,
+      "description": "Glucometer test strips (accu chek active)",
+      "dosage": "",
+      "form": "",
+      "pack_size": 0,
+      "pack_unit": "",
+      "unit": "",
+      "qty": 0,
+      "unit_price": null,
+      "total_price": null,
+      "brand": "",
+      "expiry_date": "",
+      "remarks": "",
+      "category": "Medical Supplies & Consumables"
+    },
+    {
+      "sr": 16,
+      "description": "Glucometer test strips (accu chek instant)",
+      "dosage": "",
+      "form": "",
+      "pack_size": 0,
+      "pack_unit": "",
+      "unit": "",
+      "qty": 0,
+      "unit_price": null,
+      "total_price": null,
+      "brand": "",
+      "expiry_date": "",
+      "remarks": "",
+      "category": "Medical Supplies & Consumables"
+    },
+    {
+      "sr": 17,
+      "description": "Reusable elastic Nylon tourniquet with quick release system Syringe, , sterile, with detached (bi-packed / mounted) needle , 21Gx1 1/2\" (0.80 x 40mm), disposable",
+      "dosage": "10ml",
+      "form": "",
+      "pack_size": 0,
+      "pack_unit": "",
+      "unit": "",
+      "qty": 0,
+      "unit_price": null,
+      "total_price": null,
+      "brand": "",
+      "expiry_date": "",
+      "remarks": "",
+      "category": "Emergency & Trauma Care"
+    },
+    {
+      "sr": 19,
+      "description": "High quality Stethoscope. Dual- head Stethoscope, adult and pediatric size bells, light weight, soft-sealing ear tips) Acoustic Chrome-plated binaural metal with diaphragm & cone and non-chill large bell",
+      "dosage": "",
+      "form": "",
+      "pack_size": 0,
+      "pack_unit": "",
+      "unit": "",
+      "qty": 0,
+      "unit_price": null,
+      "total_price": null,
+      "brand": "",
+      "expiry_date": "",
+      "remarks": "",
+      "category": "Medical Supplies & Consumables"
+    },
+    {
+      "sr": 20,
+      "description": "Latex foley catheter size 16fr",
+      "dosage": "",
+      "form": "",
+      "pack_size": 0,
+      "pack_unit": "",
+      "unit": "",
+      "qty": 0,
+      "unit_price": null,
+      "total_price": null,
+      "brand": "",
+      "expiry_date": "",
+      "remarks": "",
+      "category": "Urology Products"
+    },
+    {
+      "sr": 21,
+      "description": "Urine Collection Container Sterile Sample Specimen Bottle Cup",
+      "dosage": "120 ml",
+      "form": "",
+      "pack_size": 0,
+      "pack_unit": "",
+      "unit": "",
+      "qty": 0,
+      "unit_price": null,
+      "total_price": null,
+      "brand": "",
+      "expiry_date": "",
+      "remarks": "",
+      "category": "Medical Supplies & Consumables"
+    },
+    {
+      "sr": 22,
+      "description": "Sputum collection container",
+      "dosage": "60 ml",
+      "form": "",
+      "pack_size": 0,
+      "pack_unit": "",
+      "unit": "",
+      "qty": 0,
+      "unit_price": null,
+      "total_price": null,
+      "brand": "",
+      "expiry_date": "",
+      "remarks": "",
+      "category": "Medical Supplies & Consumables"
+    },
+    {
+      "sr": 23,
+      "description": "IV Infusion set",
+      "dosage": "",
+      "form": "",
+      "pack_size": 0,
+      "pack_unit": "",
+      "unit": "",
+      "qty": 0,
+      "unit_price": null,
+      "total_price": null,
+      "brand": "",
+      "expiry_date": "",
+      "remarks": "",
+      "category": "Medical Supplies & Consumables"
+    },
+    {
+      "sr": 24,
+      "description": "Biohazard Bags 10 L",
+      "dosage": "",
+      "form": "",
+      "pack_size": 0,
+      "pack_unit": "",
+      "unit": "",
+      "qty": 0,
+      "unit_price": null,
+      "total_price": null,
+      "brand": "",
+      "expiry_date": "",
+      "remarks": "",
+      "category": "Medical Supplies & Consumables"
+    },
+    {
+      "sr": 25,
+      "description": "Ultrasound , water soluble Conductive",
+      "dosage": "",
+      "form": "Gel",
+      "pack_size": 0,
+      "pack_unit": "",
+      "unit": "",
+      "qty": 0,
+      "unit_price": null,
+      "total_price": null,
+      "brand": "",
+      "expiry_date": "",
+      "remarks": "",
+      "category": "Medical Imaging Equipment"
+    },
+    {
+      "sr": 26,
+      "description": "Triangular bandage 96 x 96 x 136 cm",
+      "dosage": "",
+      "form": "",
+      "pack_size": 0,
+      "pack_unit": "",
+      "unit": "",
+      "qty": 0,
+      "unit_price": null,
+      "total_price": null,
+      "brand": "",
+      "expiry_date": "",
+      "remarks": "",
+      "category": "Wound Care & Tissue Management"
+    },
+    {
+      "sr": 27,
+      "description": "Elastic Crepe Bandages 10 cm X 4m",
+      "dosage": "",
+      "form": "",
+      "pack_size": 0,
+      "pack_unit": "",
+      "unit": "",
+      "qty": 0,
+      "unit_price": null,
+      "total_price": null,
+      "brand": "",
+      "expiry_date": "",
+      "remarks": "",
+      "category": "Medical Supplies & Consumables"
+    },
+    {
+      "sr": 29,
+      "description": "Splint kramer 50x6cm (arm)",
+      "dosage": "",
+      "form": "",
+      "pack_size": 0,
+      "pack_unit": "",
+      "unit": "",
+      "qty": 0,
+      "unit_price": null,
+      "total_price": null,
+      "brand": "",
+      "expiry_date": "",
+      "remarks": "",
+      "category": "Emergency & Trauma Care"
+    },
+    {
+      "sr": 30,
+      "description": "Urine collection Bag sterile",
+      "dosage": "2000 ml",
+      "form": "",
+      "pack_size": 0,
+      "pack_unit": "",
+      "unit": "",
+      "qty": 0,
+      "unit_price": null,
+      "total_price": null,
+      "brand": "",
+      "expiry_date": "",
+      "remarks": "",
+      "category": "Medical Supplies & Consumables"
+    },
+    {
+      "sr": 31,
+      "description": "Emergency High Strength Compression Bandage Trauma Wound Dressing- Hemostatic Control Bandage size 4 x 1 x 2 inches",
+      "dosage": "",
+      "form": "",
+      "pack_size": 0,
+      "pack_unit": "",
+      "unit": "",
+      "qty": 0,
+      "unit_price": null,
+      "total_price": null,
+      "brand": "",
+      "expiry_date": "",
+      "remarks": "",
+      "category": "Surgical Products"
+    },
+    {
+      "sr": 32,
+      "description": "Haemostatic dressing for severe bleeding.Single 10cm x 10cm dressing",
+      "dosage": "",
+      "form": "",
+      "pack_size": 0,
+      "pack_unit": "",
+      "unit": "",
+      "qty": 0,
+      "unit_price": null,
+      "total_price": null,
+      "brand": "",
+      "expiry_date": "",
+      "remarks": "",
+      "category": "Medical Supplies & Consumables"
+    },
+    {
+      "sr": 33,
+      "description": "intubation kits (Endotracheal tubes cuffed (5.5 to 9),Suction Catether size 16,Oropharyngeal airway (adult size 2,3,4,5),Oropharyngeal airway (pediatric size 00,0,1)",
+      "dosage": "",
+      "form": "",
+      "pack_size": 0,
+      "pack_unit": "",
+      "unit": "",
+      "qty": 0,
+      "unit_price": null,
+      "total_price": null,
+      "brand": "",
+      "expiry_date": "",
+      "remarks": "",
+      "category": "Respiratory & Anesthesia"
+    },
+    {
+      "sr": 34,
+      "description": "Emegency mechanical tourniquet",
+      "dosage": "",
+      "form": "",
+      "pack_size": 0,
+      "pack_unit": "",
+      "unit": "",
+      "qty": 0,
+      "unit_price": null,
+      "total_price": null,
+      "brand": "",
+      "expiry_date": "",
+      "remarks": "",
+      "category": "Emergency & Trauma Care"
+    },
+    {
+      "sr": 35,
+      "description": "Vaginal speculum, sterile, size M",
+      "dosage": "",
+      "form": "",
+      "pack_size": 0,
+      "pack_unit": "",
+      "unit": "",
+      "qty": 0,
+      "unit_price": null,
+      "total_price": null,
+      "brand": "",
+      "expiry_date": "",
+      "remarks": "",
+      "category": "Medical Supplies & Consumables"
+    },
+    {
+      "sr": 36,
+      "description": "Wooden Tongue Depressor",
+      "dosage": "",
+      "form": "",
+      "pack_size": 0,
+      "pack_unit": "",
+      "unit": "",
+      "qty": 0,
+      "unit_price": null,
+      "total_price": null,
+      "brand": "",
+      "expiry_date": "",
+      "remarks": "",
+      "category": "Medical Supplies & Consumables"
     }
   ],
   "fields": [
     {
-      "id": "rfq_reference",
-      "label": "RFQ Reference",
+      "id": "rfq_number",
+      "label": "RFQ Number",
       "type": "text",
       "section": "Quotation Submission",
       "required": true,
-      "default_value": "4200705309",
-      "placeholder": null,
+      "default_value": null,
+      "placeholder": "e.g. RFQ-2024-001",
       "options": [],
       "validation": {
         "min": null,
@@ -853,43 +572,13 @@
       }
     },
     {
-      "id": "submission_deadline",
-      "label": "Deadline for the Submission of Quotation",
-      "type": "date",
-      "section": "Quotation Submission",
-      "required": true,
-      "default_value": "2024-07-24",
-      "placeholder": "Date format: YYYY-MM-DD",
-      "options": [],
-      "validation": {
-        "min": null,
-        "max": null,
-        "pattern": null
-      }
-    },
-    {
-      "id": "submission_email",
-      "label": "Bid Submission Email Address",
+      "id": "email",
+      "label": "Email Address",
       "type": "email",
-      "section": "Quotation Submission",
-      "required": true,
-      "default_value": "iomlibyaproposal@iom.int",
-      "placeholder": null,
-      "options": [],
-      "validation": {
-        "min": null,
-        "max": null,
-        "pattern": null
-      }
-    },
-    {
-      "id": "quotation_submission_form_upload",
-      "label": "Annex 2: Quotation Submission Form (Completed & Signed)",
-      "type": "file",
-      "section": "Quotation Submission",
+      "section": "Vendor Information",
       "required": true,
       "default_value": null,
-      "placeholder": "Upload the completed and signed Annex 2 form.",
+      "placeholder": "vendor@company.com",
       "options": [],
       "validation": {
         "min": null,
@@ -898,13 +587,13 @@
       }
     },
     {
-      "id": "bidder_name",
-      "label": "Name of Bidder",
+      "id": "company_name",
+      "label": "Company Name",
       "type": "text",
       "section": "Vendor Information",
       "required": true,
       "default_value": null,
-      "placeholder": "Enter the full legal name of the bidding company.",
+      "placeholder": "Legal registered name",
       "options": [],
       "validation": {
         "min": null,
@@ -913,13 +602,95 @@
       }
     },
     {
-      "id": "company_address",
-      "label": "Company Address",
-      "type": "textarea",
+      "id": "authorized_signatory",
+      "label": "Authorized Signatory Name",
+      "type": "text",
+      "section": "Declaration of Conformity",
+      "required": true,
+      "default_value": null,
+      "placeholder": "Full name of signing authority",
+      "options": [],
+      "validation": {
+        "min": null,
+        "max": null,
+        "pattern": null
+      }
+    },
+    {
+      "id": "currency",
+      "label": "Currency",
+      "type": "dropdown",
+      "section": "Quotation Submission",
+      "required": true,
+      "default_value": null,
+      "placeholder": "",
+      "options": [
+        "USD",
+        "EUR",
+        "GBP",
+        "LYD",
+        "AED",
+        "SAR"
+      ],
+      "validation": {
+        "min": null,
+        "max": null,
+        "pattern": null
+      }
+    },
+    {
+      "id": "bank_name",
+      "label": "Bank Name",
+      "type": "text",
+      "section": "Vendor Information",
+      "required": false,
+      "default_value": null,
+      "placeholder": "Bank name",
+      "options": [],
+      "validation": {
+        "min": null,
+        "max": null,
+        "pattern": null
+      }
+    },
+    {
+      "id": "validity_period",
+      "label": "Validity Period (days)",
+      "type": "number",
+      "section": "Quotation Submission",
+      "required": true,
+      "default_value": null,
+      "placeholder": "e.g. 90",
+      "options": [],
+      "validation": {
+        "min": null,
+        "max": null,
+        "pattern": null
+      }
+    },
+    {
+      "id": "payment_terms",
+      "label": "Payment Terms",
+      "type": "text",
+      "section": "Quotation Submission",
+      "required": false,
+      "default_value": null,
+      "placeholder": "e.g. Net 30",
+      "options": [],
+      "validation": {
+        "min": null,
+        "max": null,
+        "pattern": null
+      }
+    },
+    {
+      "id": "contact_person",
+      "label": "Contact Person",
+      "type": "text",
       "section": "Vendor Information",
       "required": true,
       "default_value": null,
-      "placeholder": "Enter the exact name and address of the company.",
+      "placeholder": "Full name",
       "options": [],
       "validation": {
         "min": null,
@@ -928,13 +699,155 @@
       }
     },
     {
-      "id": "company_phone",
-      "label": "Company Phone Number",
+      "id": "after_sales_support",
+      "label": "After-Sales Support",
+      "type": "textarea",
+      "section": "Compliance & Delivery",
+      "required": false,
+      "default_value": null,
+      "placeholder": "Describe support offered",
+      "options": [],
+      "validation": {
+        "min": null,
+        "max": null,
+        "pattern": null
+      }
+    },
+    {
+      "id": "delivery_lead_time",
+      "label": "Delivery Lead Time",
+      "type": "text",
+      "section": "Compliance & Delivery",
+      "required": true,
+      "default_value": null,
+      "placeholder": "e.g. 4-6 weeks after PO",
+      "options": [],
+      "validation": {
+        "min": null,
+        "max": null,
+        "pattern": null
+      }
+    },
+    {
+      "id": "shelf_life",
+      "label": "Shelf Life / Expiry Date",
+      "type": "text",
+      "section": "Technical & Financial Offer",
+      "required": false,
+      "default_value": null,
+      "placeholder": "e.g. min. 18 months upon delivery",
+      "options": [],
+      "validation": {
+        "min": null,
+        "max": null,
+        "pattern": null
+      }
+    },
+    {
+      "id": "unit_price",
+      "label": "Unit Price",
+      "type": "number",
+      "section": "Technical & Financial Offer",
+      "required": true,
+      "default_value": null,
+      "placeholder": "Price per unit",
+      "options": [],
+      "validation": {
+        "min": null,
+        "max": null,
+        "pattern": null
+      }
+    },
+    {
+      "id": "signature",
+      "label": "Signature",
+      "type": "file",
+      "section": "Declaration of Conformity",
+      "required": true,
+      "default_value": null,
+      "placeholder": "",
+      "options": [],
+      "validation": {
+        "min": null,
+        "max": null,
+        "pattern": null
+      }
+    },
+    {
+      "id": "delivery_address",
+      "label": "Delivery Address / Terms",
+      "type": "textarea",
+      "section": "Compliance & Delivery",
+      "required": true,
+      "default_value": null,
+      "placeholder": "Delivery destination and Incoterms",
+      "options": [],
+      "validation": {
+        "min": null,
+        "max": null,
+        "pattern": null
+      }
+    },
+    {
+      "id": "incoterms",
+      "label": "Incoterms",
+      "type": "dropdown",
+      "section": "Compliance & Delivery",
+      "required": false,
+      "default_value": null,
+      "placeholder": "",
+      "options": [
+        "EXW",
+        "FOB",
+        "CIF",
+        "DDP",
+        "DAP",
+        "CPT"
+      ],
+      "validation": {
+        "min": null,
+        "max": null,
+        "pattern": null
+      }
+    },
+    {
+      "id": "packing_standard",
+      "label": "Packing Standard",
+      "type": "text",
+      "section": "Compliance & Delivery",
+      "required": false,
+      "default_value": null,
+      "placeholder": "e.g. Original manufacturer packaging",
+      "options": [],
+      "validation": {
+        "min": null,
+        "max": null,
+        "pattern": null
+      }
+    },
+    {
+      "id": "warranty",
+      "label": "Warranty Period",
+      "type": "text",
+      "section": "Compliance & Delivery",
+      "required": false,
+      "default_value": null,
+      "placeholder": "e.g. 12 months",
+      "options": [],
+      "validation": {
+        "min": null,
+        "max": null,
+        "pattern": null
+      }
+    },
+    {
+      "id": "phone",
+      "label": "Phone Number",
       "type": "phone",
       "section": "Vendor Information",
       "required": true,
       "default_value": null,
-      "placeholder": "Enter company phone number.",
+      "placeholder": "+xxx-xxx-xxxxxxx",
       "options": [],
       "validation": {
         "min": null,
@@ -943,451 +856,13 @@
       }
     },
     {
-      "id": "company_email",
-      "label": "Company Email Address",
-      "type": "email",
-      "section": "Vendor Information",
-      "required": true,
-      "default_value": null,
-      "placeholder": "Enter company email address.",
-      "options": [],
-      "validation": {
-        "min": null,
-        "max": null,
-        "pattern": null
-      }
-    },
-    {
-      "id": "new_vendor_documents_note",
-      "label": "Documents for New Vendors",
-      "type": "textarea",
-      "section": "Vendor Information",
-      "required": false,
-      "default_value": "Bidders not already registered with IOM must submit the following documents: Company Profile, Valid Company Registration Certificates, Company Articles of association, Company Organogram, Bank account letter, Audited financial statement for last two years or Bank account statement for one year, Tax Certificate, references.",
-      "placeholder": null,
-      "options": [],
-      "validation": {
-        "min": null,
-        "max": null,
-        "pattern": null
-      }
-    },
-    {
-      "id": "company_profile_upload",
-      "label": "Company Profile",
-      "type": "file",
-      "section": "Vendor Information",
-      "required": false,
-      "default_value": null,
-      "placeholder": "Upload if not already registered with IOM.",
-      "options": [],
-      "validation": {
-        "min": null,
-        "max": null,
-        "pattern": null
-      }
-    },
-    {
-      "id": "company_registration_certificates_upload",
-      "label": "Valid Company Registration Certificates",
-      "type": "file",
-      "section": "Vendor Information",
-      "required": false,
-      "default_value": null,
-      "placeholder": "Upload if not already registered with IOM.",
-      "options": [],
-      "validation": {
-        "min": null,
-        "max": null,
-        "pattern": null
-      }
-    },
-    {
-      "id": "articles_of_association_upload",
-      "label": "Company Articles of Association",
-      "type": "file",
-      "section": "Vendor Information",
-      "required": false,
-      "default_value": null,
-      "placeholder": "Upload if not already registered with IOM.",
-      "options": [],
-      "validation": {
-        "min": null,
-        "max": null,
-        "pattern": null
-      }
-    },
-    {
-      "id": "financial_statement_upload",
-      "label": "Financial Statement",
-      "type": "file",
-      "section": "Vendor Information",
-      "required": false,
-      "default_value": null,
-      "placeholder": "Audited financial statement for last two years or Bank account statement for one year.",
-      "options": [],
-      "validation": {
-        "min": null,
-        "max": null,
-        "pattern": null
-      }
-    },
-    {
-      "id": "declaration_no_misconduct",
-      "label": "I declare that the supplier has not been subject to a final judgement for bankruptcy, insolvency, breach of tax obligations, grave professional misconduct, fraud, corruption, etc.",
-      "type": "checkbox",
-      "section": "Declaration of Conformity",
-      "required": true,
-      "default_value": null,
-      "placeholder": null,
-      "options": [],
-      "validation": {
-        "min": null,
-        "max": null,
-        "pattern": null
-      }
-    },
-    {
-      "id": "declaration_financially_sound",
-      "label": "I declare that the supplier is financially sound and duly licensed.",
-      "type": "checkbox",
-      "section": "Declaration of Conformity",
-      "required": true,
-      "default_value": null,
-      "placeholder": null,
-      "options": [],
-      "validation": {
-        "min": null,
-        "max": null,
-        "pattern": null
-      }
-    },
-    {
-      "id": "declaration_adequate_resources",
-      "label": "I declare that the supplier has adequate human resources, equipment, competence, expertise and skills necessary to complete the contract fully and satisfactorily.",
-      "type": "checkbox",
-      "section": "Declaration of Conformity",
-      "required": true,
-      "default_value": null,
-      "placeholder": null,
-      "options": [],
-      "validation": {
-        "min": null,
-        "max": null,
-        "pattern": null
-      }
-    },
-    {
-      "id": "declaration_complies_with_laws",
-      "label": "I declare that the supplier complies with all applicable laws, ordinances, rules and regulations.",
-      "type": "checkbox",
-      "section": "Declaration of Conformity",
-      "required": true,
-      "default_value": null,
-      "placeholder": null,
-      "options": [],
-      "validation": {
-        "min": null,
-        "max": null,
-        "pattern": null
-      }
-    },
-    {
-      "id": "declaration_best_interests_of_iom",
-      "label": "I declare that the supplier will in all circumstances act in the best interests of IOM.",
-      "type": "checkbox",
-      "section": "Declaration of Conformity",
-      "required": true,
-      "default_value": null,
-      "placeholder": null,
-      "options": [],
-      "validation": {
-        "min": null,
-        "max": null,
-        "pattern": null
-      }
-    },
-    {
-      "id": "declaration_no_benefit_to_officials",
-      "label": "I declare that no official of IOM or any third party has received or will be offered any direct or indirect benefit arising from the contract.",
-      "type": "checkbox",
-      "section": "Declaration of Conformity",
-      "required": true,
-      "default_value": null,
-      "placeholder": null,
-      "options": [],
-      "validation": {
-        "min": null,
-        "max": null,
-        "pattern": null
-      }
-    },
-    {
-      "id": "declaration_no_misrepresentation",
-      "label": "I declare that the supplier has not misrepresented or concealed any material facts during the contracting process.",
-      "type": "checkbox",
-      "section": "Declaration of Conformity",
-      "required": true,
-      "default_value": null,
-      "placeholder": null,
-      "options": [],
-      "validation": {
-        "min": null,
-        "max": null,
-        "pattern": null
-      }
-    },
-    {
-      "id": "declaration_respect_iom_status",
-      "label": "I declare that the supplier will respect the legal status, privileges and immunities of IOM as an intergovernmental organization.",
-      "type": "checkbox",
-      "section": "Declaration of Conformity",
-      "required": true,
-      "default_value": null,
-      "placeholder": null,
-      "options": [],
-      "validation": {
-        "min": null,
-        "max": null,
-        "pattern": null
-      }
-    },
-    {
-      "id": "declaration_not_on_sanctions_list",
-      "label": "I declare that neither the supplier nor any of its key personnel are included in the Consolidated United Nations Security Council Sanctions List.",
-      "type": "checkbox",
-      "section": "Declaration of Conformity",
-      "required": true,
-      "default_value": null,
-      "placeholder": null,
-      "options": [],
-      "validation": {
-        "min": null,
-        "max": null,
-        "pattern": null
-      }
-    },
-    {
-      "id": "declaration_no_terrorism_association",
-      "label": "I declare that the supplier does not employ, support, or deal with any person or entity associated with terrorism.",
-      "type": "checkbox",
-      "section": "Declaration of Conformity",
-      "required": true,
-      "default_value": null,
-      "placeholder": null,
-      "options": [],
-      "validation": {
-        "min": null,
-        "max": null,
-        "pattern": null
-      }
-    },
-    {
-      "id": "declaration_highest_ethical_standards",
-      "label": "I declare that the supplier will apply the highest ethical standards and avoid any conflict of interest.",
-      "type": "checkbox",
-      "section": "Declaration of Conformity",
-      "required": true,
-      "default_value": null,
-      "placeholder": null,
-      "options": [],
-      "validation": {
-        "min": null,
-        "max": null,
-        "pattern": null
-      }
-    },
-    {
-      "id": "declaration_code_of_conduct",
-      "label": "I declare that the supplier undertakes to comply with the UN Supplier Code of Conduct.",
-      "type": "checkbox",
-      "section": "Declaration of Conformity",
-      "required": true,
-      "default_value": null,
-      "placeholder": null,
-      "options": [],
-      "validation": {
-        "min": null,
-        "max": null,
-        "pattern": null
-      }
-    },
-    {
-      "id": "declaration_inform_of_change",
-      "label": "I acknowledge the responsibility to inform IOM immediately of any change to the information provided in this Declaration.",
-      "type": "checkbox",
-      "section": "Declaration of Conformity",
-      "required": true,
-      "default_value": null,
-      "placeholder": null,
-      "options": [],
-      "validation": {
-        "min": null,
-        "max": null,
-        "pattern": null
-      }
-    },
-    {
-      "id": "declaration_authorized_to_sign",
-      "label": "I certify that I am duly authorized to sign this Declaration and agree to abide by its terms.",
-      "type": "checkbox",
-      "section": "Declaration of Conformity",
-      "required": true,
-      "default_value": null,
-      "placeholder": null,
-      "options": [],
-      "validation": {
-        "min": null,
-        "max": null,
-        "pattern": null
-      }
-    },
-    {
-      "id": "declaration_misrepresentation_consequences",
-      "label": "I acknowledge that IOM reserves the right to terminate any contract in the event of any misrepresentation made in this Declaration.",
-      "type": "checkbox",
-      "section": "Declaration of Conformity",
-      "required": true,
-      "default_value": null,
-      "placeholder": null,
-      "options": [],
-      "validation": {
-        "min": null,
-        "max": null,
-        "pattern": null
-      }
-    },
-    {
-      "id": "declaration_signature_name",
-      "label": "Name of Authorized Signatory for Declaration",
-      "type": "text",
-      "section": "Declaration of Conformity",
-      "required": true,
-      "default_value": null,
-      "placeholder": "Enter full name.",
-      "options": [],
-      "validation": {
-        "min": null,
-        "max": null,
-        "pattern": null
-      }
-    },
-    {
-      "id": "declaration_signature_title",
-      "label": "Title of Authorized Signatory for Declaration",
-      "type": "text",
-      "section": "Declaration of Conformity",
-      "required": true,
-      "default_value": null,
-      "placeholder": "Enter job title.",
-      "options": [],
-      "validation": {
-        "min": null,
-        "max": null,
-        "pattern": null
-      }
-    },
-    {
-      "id": "declaration_signature_date",
-      "label": "Date of Declaration Signature",
-      "type": "date",
-      "section": "Declaration of Conformity",
-      "required": true,
-      "default_value": null,
-      "placeholder": null,
-      "options": [],
-      "validation": {
-        "min": null,
-        "max": null,
-        "pattern": null
-      }
-    },
-    {
-      "id": "schedule_of_requirements_acknowledgement",
-      "label": "I acknowledge the Schedule of Requirements as detailed in Annex 1.",
-      "type": "checkbox",
-      "section": "Schedule of Requirements",
-      "required": true,
-      "default_value": null,
-      "placeholder": null,
-      "options": [],
-      "validation": {
-        "min": null,
-        "max": null,
-        "pattern": null
-      }
-    },
-    {
-      "id": "technical_financial_offer_upload",
-      "label": "Annex 3: Technical and Financial Offer (Completed Excel Sheet)",
-      "type": "file",
-      "section": "Technical & Financial Offer",
-      "required": true,
-      "default_value": null,
-      "placeholder": "Upload the completed, signed, and stamped Excel offer.",
-      "options": [],
-      "validation": {
-        "min": null,
-        "max": null,
-        "pattern": null
-      }
-    },
-    {
-      "id": "pharmaceuticals_details",
-      "label": "Detailed description of pharmaceuticals",
-      "type": "textarea",
-      "section": "Technical & Financial Offer",
-      "required": true,
-      "default_value": null,
-      "placeholder": "Provide expiry date, brand, dosage form and concentration. Sample pictures are advantages.",
-      "options": [],
-      "validation": {
-        "min": null,
-        "max": null,
-        "pattern": null
-      }
-    },
-    {
-      "id": "currency_of_quotation",
-      "label": "Currency of the Quotation",
+      "id": "brand_offered",
+      "label": "Brand / Manufacturer",
       "type": "text",
       "section": "Technical & Financial Offer",
-      "required": true,
-      "default_value": "USD",
-      "placeholder": null,
-      "options": [],
-      "validation": {
-        "min": null,
-        "max": null,
-        "pattern": null
-      }
-    },
-    {
-      "id": "compliance_technical_specs",
-      "label": "Compliance with Minimum Technical Specifications",
-      "type": "dropdown",
-      "section": "Compliance & Delivery",
-      "required": true,
-      "default_value": null,
-      "placeholder": null,
-      "options": [
-        "Yes, we will comply",
-        "No, we cannot comply"
-      ],
-      "validation": {
-        "min": null,
-        "max": null,
-        "pattern": null
-      }
-    },
-    {
-      "id": "compliance_technical_specs_counter_proposal",
-      "label": "Counter Proposal for Technical Specifications",
-      "type": "text",
-      "section": "Compliance & Delivery",
       "required": false,
       "default_value": null,
-      "placeholder": "If you cannot comply, please indicate counter proposal.",
+      "placeholder": "Proposed brand name",
       "options": [],
       "validation": {
         "min": null,
@@ -1396,223 +871,13 @@
       }
     },
     {
-      "id": "compliance_delivery_term",
-      "label": "Compliance with Delivery Term (INCOTERMS)",
-      "type": "dropdown",
-      "section": "Compliance & Delivery",
-      "required": true,
-      "default_value": null,
-      "placeholder": null,
-      "options": [
-        "Yes, we will comply",
-        "No, we cannot comply"
-      ],
-      "validation": {
-        "min": null,
-        "max": null,
-        "pattern": null
-      }
-    },
-    {
-      "id": "compliance_delivery_term_counter_proposal",
-      "label": "Counter Proposal for Delivery Term",
-      "type": "text",
-      "section": "Compliance & Delivery",
+      "id": "company_stamp",
+      "label": "Company Stamp",
+      "type": "file",
+      "section": "Declaration of Conformity",
       "required": false,
       "default_value": null,
-      "placeholder": "If you cannot comply, please indicate counter proposal.",
-      "options": [],
-      "validation": {
-        "min": null,
-        "max": null,
-        "pattern": null
-      }
-    },
-    {
-      "id": "compliance_delivery_lead_time",
-      "label": "Compliance with Delivery Lead Time",
-      "type": "dropdown",
-      "section": "Compliance & Delivery",
-      "required": true,
-      "default_value": null,
-      "placeholder": null,
-      "options": [
-        "Yes, we will comply",
-        "No, we cannot comply"
-      ],
-      "validation": {
-        "min": null,
-        "max": null,
-        "pattern": null
-      }
-    },
-    {
-      "id": "compliance_delivery_lead_time_counter_proposal",
-      "label": "Proposed Delivery Lead Time",
-      "type": "text",
-      "section": "Compliance & Delivery",
-      "required": false,
-      "default_value": null,
-      "placeholder": "If you cannot comply, please indicate your proposed lead time.",
-      "options": [],
-      "validation": {
-        "min": null,
-        "max": null,
-        "pattern": null
-      }
-    },
-    {
-      "id": "compliance_warranty",
-      "label": "Compliance with Warranty and After-Sales Requirements",
-      "type": "dropdown",
-      "section": "Compliance & Delivery",
-      "required": true,
-      "default_value": null,
-      "placeholder": null,
-      "options": [
-        "Yes, we will comply",
-        "No, we cannot comply"
-      ],
-      "validation": {
-        "min": null,
-        "max": null,
-        "pattern": null
-      }
-    },
-    {
-      "id": "compliance_warranty_counter_proposal",
-      "label": "Counter Proposal for Warranty",
-      "type": "text",
-      "section": "Compliance & Delivery",
-      "required": false,
-      "default_value": null,
-      "placeholder": "If you cannot comply, please indicate counter proposal.",
-      "options": [],
-      "validation": {
-        "min": null,
-        "max": null,
-        "pattern": null
-      }
-    },
-    {
-      "id": "compliance_quotation_validity",
-      "label": "Compliance with Validity of Quotation (60 days)",
-      "type": "dropdown",
-      "section": "Compliance & Delivery",
-      "required": true,
-      "default_value": null,
-      "placeholder": null,
-      "options": [
-        "Yes, we will comply",
-        "No, we cannot comply"
-      ],
-      "validation": {
-        "min": null,
-        "max": null,
-        "pattern": null
-      }
-    },
-    {
-      "id": "compliance_quotation_validity_counter_proposal",
-      "label": "Proposed Quotation Validity",
-      "type": "text",
-      "section": "Compliance & Delivery",
-      "required": false,
-      "default_value": null,
-      "placeholder": "If you cannot comply, please indicate your proposed validity period.",
-      "options": [],
-      "validation": {
-        "min": null,
-        "max": null,
-        "pattern": null
-      }
-    },
-    {
-      "id": "compliance_payment_terms",
-      "label": "Compliance with Payment Terms (100% within 30 days after receipt)",
-      "type": "dropdown",
-      "section": "Compliance & Delivery",
-      "required": true,
-      "default_value": null,
-      "placeholder": null,
-      "options": [
-        "Yes, we will comply",
-        "No, we cannot comply"
-      ],
-      "validation": {
-        "min": null,
-        "max": null,
-        "pattern": null
-      }
-    },
-    {
-      "id": "compliance_payment_terms_counter_proposal",
-      "label": "Counter Proposal for Payment Terms",
-      "type": "text",
-      "section": "Compliance & Delivery",
-      "required": false,
-      "default_value": null,
-      "placeholder": "If you cannot comply, please indicate counter proposal.",
-      "options": [],
-      "validation": {
-        "min": null,
-        "max": null,
-        "pattern": null
-      }
-    },
-    {
-      "id": "delivery_terms_incoterms",
-      "label": "Delivery Terms (INCOTERMS 2020)",
-      "type": "text",
-      "section": "Compliance & Delivery",
-      "required": true,
-      "default_value": "DAP",
-      "placeholder": null,
-      "options": [],
-      "validation": {
-        "min": null,
-        "max": null,
-        "pattern": null
-      }
-    },
-    {
-      "id": "delivery_location",
-      "label": "Delivery Location",
-      "type": "text",
-      "section": "Compliance & Delivery",
-      "required": true,
-      "default_value": "Benghazi",
-      "placeholder": "Exact address of delivery location.",
-      "options": [],
-      "validation": {
-        "min": null,
-        "max": null,
-        "pattern": null
-      }
-    },
-    {
-      "id": "estimated_consignment_details",
-      "label": "Estimated weight/volume/dimension of the Consignment",
-      "type": "text",
-      "section": "Compliance & Delivery",
-      "required": false,
-      "default_value": null,
-      "placeholder": "Provide estimated details.",
-      "options": [],
-      "validation": {
-        "min": null,
-        "max": null,
-        "pattern": null
-      }
-    },
-    {
-      "id": "country_of_origin",
-      "label": "Country/ies of Origin",
-      "type": "text",
-      "section": "Compliance & Delivery",
-      "required": true,
-      "default_value": null,
-      "placeholder": "List all countries of origin for the goods.",
+      "placeholder": "",
       "options": [],
       "validation": {
         "min": null,
@@ -1620,5 +885,6 @@
         "pattern": null
       }
     }
-  ]
+  ],
+  "gemini_used": false
 }
